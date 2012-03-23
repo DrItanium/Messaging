@@ -1,0 +1,4 @@
+This is a library that is meant to allow messages to be passed between
+application domains. 
+
+This library is licensed under the BSD license.
